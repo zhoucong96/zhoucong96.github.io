@@ -1,15 +1,15 @@
 $(document).ready(function(){
-    $('header').mouseenter(function(){
+    $('div').mouseenter(function(){
         $(this).animate({
            height: '+=10px'
        });
     });
-    $('header').mouseleave(function(){
+    $('div').mouseleave(function(){
         $(this).animate({
            height: '-=10px'
        });
     })
     $('div').click(function() {
-       $(this).hide();
+        $(this).hide();
    }); 
 });
