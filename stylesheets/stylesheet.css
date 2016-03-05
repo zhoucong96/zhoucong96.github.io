@@ -293,8 +293,6 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
-  background-image: url('http://images6.fanpop.com/image/photos/38500000/beautiful-wallpaper-7-beautiful-pictures-38538899-1920-1080.jpg');
-  background-size:cover;
 }
 
 #header_wrap .inner {
@@ -360,6 +358,8 @@ Full-Width Styles
   background: #f2f2f2;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
+  background-image: url('http://images6.fanpop.com/image/photos/38500000/beautiful-wallpaper-7-beautiful-pictures-38538899-1920-1080.jpg');
+  background-size:cover;
 }
 
 #main_content {
