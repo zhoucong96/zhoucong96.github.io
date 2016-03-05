@@ -294,6 +294,7 @@ Full-Width Styles
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
   background-image: url('http://images6.fanpop.com/image/photos/38500000/beautiful-wallpaper-7-beautiful-pictures-38538899-1920-1080.jpg');
+  background-size:cover;
 }
 
 #header_wrap .inner {
