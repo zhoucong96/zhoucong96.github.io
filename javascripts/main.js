@@ -10,6 +10,8 @@ $(document).ready(function(){
        });
     })
     $('div').click(function() {
-        $(this).hide();
+        $(this).animate({
+            height: 'toggle'
+        });
    }); 
 });
