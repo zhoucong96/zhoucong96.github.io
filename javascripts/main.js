@@ -8,10 +8,5 @@ $(document).ready(function(){
         $(this).animate({
            height: '-=50px'
        });
-    })
-    $('div').click(function() {
-        $(this).animate({
-            height: 'toggle'
-        });
    }); 
 });
